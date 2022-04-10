@@ -1,1 +1,1 @@
-# osms
+Student Service Management
